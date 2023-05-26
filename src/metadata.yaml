@@ -1,0 +1,11 @@
+---
+# AWS NodeGetStarted examples
+files:
+  - path: ./libs/sampleClient.js
+    services:
+      - s3
+  # - path: sample.js
+    - path: gettingStarted.js
+    services:
+      - s3
+...
